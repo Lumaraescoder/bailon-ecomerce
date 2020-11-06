@@ -8,6 +8,7 @@ import Location from './location/index'
 import Subnav from '../../components/Subnav/index'
 import Navbar from '../../components/Navbar/index'
 
+
 const Home = () => (
   <div>
     <Subnav />
